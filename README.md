@@ -10,4 +10,4 @@ This is my HelloWorld repo!
 
 *This is italics*
 
-**This is Bold*
+**This is Bold**
